@@ -35,7 +35,7 @@ Selected for exhibition at the **HKU 2nd Engineering InnoShow**.
 
 ![Screenshot](screenshots/hexplore-fort-screenshot-1.png)
 ![Screenshot](screenshots/hexplore-fort-screenshot-2.png)
-![Screenshot](screenshots/hexplore-fort-screenshot-3.png)
+![Screenshot](screenshots/hexplore-fort-screenshot-3.jpg)
 
 ## Project Type
 
